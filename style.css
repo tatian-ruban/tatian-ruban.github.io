@@ -1,10 +1,11 @@
 head{
-    background-color:#f51446;}
-body{ font-family: "Monotype Corsiva" , Times New Roman; font-size: 50px;}
+    background-color:#fcffff;}
+    header {"Monotype Corsiva" , Times New Roman; font-size: 24px; color:#000000}
+body{ font-family: "Monotype Corsiva" , Times New Roman; font-size: 32px;}
 li1 { display: inline;}
 #flex {display: flex}
-nav { background-color: #f51466}
-main {background-color: #FA8072}
+nav { background-color: #0af0f0; color: }
+main {background-color: #b8f5f1}
 ul1 {list-style-type: #f51466;
 margin: 15px;
 overflow: hidden;
