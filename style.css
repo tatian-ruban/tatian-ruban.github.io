@@ -22,11 +22,25 @@ img.displayed {display: block;
 margin-left: 50%;}
 
 margin: auto;}
-li {font-size: 24px;
-    color: #000080;}
+li {font-size: 28px;
+    color: #fa0799;}
 h1 {color: #053afa;
-font-size: 40px;}
+font-size: 40px;
+text-align: center;}
 p1{font-family: "Monotype Corsiva" , Times New Roman;
     color: #000080;
     font-size: 20px;
     font-style: normal;}
+h4 {font-family: "Monotype Corsiva" , Times New Roman;
+    color: #f50707;
+    font-size: 28px;
+    text-align: center;}
+ol {font-size: 24px;
+    color: #000080;}
+h2 {font-family: "Monotype Corsiva" , Times New Roman;
+color: #f00707;
+font-size: 30px;}
+h3 {color: #f7001d;
+    font-size: 30px;}
+    ul {font-size: 28px;
+        color: #fa0799;}
