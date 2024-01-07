@@ -4,20 +4,13 @@ head{
 body{ font-family: "Monotype Corsiva" , Times New Roman; font-size: 32px;}
 li1 { display: inline;}
 #flex {display: flex}
-nav { background-color: #0af0f0; color: }
+nav { background-color: #0af0f0; }
 main {background-color: #b8f5f1}
 ul1 {list-style-type: #f51466;
 margin: 15px;
 overflow: hidden;
 background-color: #dddddd;}
-li1 {float: left;}
-li1 a {display: block;
-color: #FF6347;
-text-decoration: none;
-font-size: 28px;}
-li1 a:hover {background-color: #111;}
-li1 {border-right: 1px solid #bbb;}
-p1 {font-family: "Monotype Corsiva" , Times New Roman;
+p {font-family: "Monotype Corsiva" , Times New Roman;
 color: #e81361;
 font-size: 30px;
 font-style: normal;}
@@ -27,11 +20,13 @@ p {font-family: "Monotype Corsiva" , Times New Roman;
     font-style: normal;}
 img.displayed {display: block;
 margin-left: 50%;}
-li2 {font-size: 24px;
-    color: #000080;}
-.center-text {height: 40px;
-    display: flex;
-    align-items: center;
+
 margin: auto;}
 li {font-size: 24px;
     color: #000080;}
+h1 {color: #053afa;
+font-size: 40px;}
+p1{font-family: "Monotype Corsiva" , Times New Roman;
+    color: #000080;
+    font-size: 20px;
+    font-style: normal;}
